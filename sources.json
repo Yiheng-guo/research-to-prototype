@@ -1,0 +1,24 @@
+[
+  {
+    "skill": "research-to-prototype",
+    "repo": "phuryn/pm-skills",
+    "commit": "8607e3b077817f89bf4a9b623246219734ac3be0",
+    "license": "MIT",
+    "license_file": "third_party/pm/LICENSE",
+    "path": "pm-execution/skills/create-prd/SKILL.md",
+    "snapshot": "third_party/pm/pm-execution/skills/create-prd/SKILL.md",
+    "url": "https://github.com/phuryn/pm-skills/blob/8607e3b077817f89bf4a9b623246219734ac3be0/pm-execution/skills/create-prd/SKILL.md",
+    "adaptation": "Workflow adaptation; rewritten Chinese instructions and original local tooling; original snapshot retained."
+  },
+  {
+    "skill": "research-to-prototype",
+    "repo": "anthropics/skills",
+    "commit": "8a1541c4a3ffa5a20a5a91de0dcf3f0bab1d1ef4",
+    "license": "Apache-2.0",
+    "license_file": "third_party/anthropic/LICENSE",
+    "path": "skills/webapp-testing/SKILL.md",
+    "snapshot": "third_party/anthropic/skills/webapp-testing/SKILL.md",
+    "url": "https://github.com/anthropics/skills/blob/8a1541c4a3ffa5a20a5a91de0dcf3f0bab1d1ef4/skills/webapp-testing/SKILL.md",
+    "adaptation": "Workflow adaptation; rewritten Chinese instructions and original local tooling; original snapshot retained."
+  }
+]

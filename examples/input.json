@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "evidence": [
+    {
+      "id": "E01",
+      "kind": "fact",
+      "source": "synthetic-interview:1",
+      "text": "合成受访者询价缺地域规格时得到错误报价。"
+    }
+  ],
+  "requirements": [
+    {
+      "id": "R01",
+      "evidence_ids": [
+        "E01"
+      ],
+      "flow": [
+        "填写地域、规格、数量",
+        "检查缺失字段",
+        "显示待销售确认摘要"
+      ],
+      "acceptance": "缺字段不提交；完整输入展示摘要，明确不是报价。",
+      "validation_method": "浏览器填写与缺值测试"
+    }
+  ],
+  "changes": [
+    {
+      "version": "1.0.0",
+      "change": "初版：询价澄清路径"
+    }
+  ]
+}

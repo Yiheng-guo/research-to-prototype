@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-02",
+  "browser": "system Google Chrome / Playwright",
+  "status": "pass",
+  "tests": [
+    "missing-fields",
+    "zero-quantity",
+    "complete-summary",
+    "edit",
+    "390px-no-overflow"
+  ]
+}
